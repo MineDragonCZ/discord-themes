@@ -4,15 +4,15 @@
  * @version 2.0
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Varela+Round&family=Mouse+Memoirs&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap&family=Varela+Round&family=Mouse+Memoirs&display=swap');
 
 /* SETTINGS */
 :root {
 	--card-color: #171924;
 	--tag-color: #2c2e36;
-	--main-color: #fb6e00c5;
-	--main-back-color: #fb6e00c5;
-	--hover-color: #fb6e00aa;
+	--main-color: #3C7DECc5;
+	--main-back-color: #3C7DECc5;
+	--hover-color: #3C7DECaa;
 	--success-color: #1db10fc5;
 	--danger-color: #b10f0fc5;
 	--channel-unread: #fff;
@@ -33,9 +33,9 @@
 	--channels-width: 220px;
 	--members-width: 240px;
 	--background-shading: 100%;
-	--background-overlay-2: #fb6e00c5;
+	--background-overlay-2: #3C7DECc5;
 	--background-overlay: #16171bc5;
-	--background-image: url(https://zabak.eu/tools/src/imgs/headers/header_dark4.webp);
+	--background-image: url(https://justsgmod.eu/tools/src/imgs/headers/header_dark2.png);
 	--background-position: center;
 	--background-size: cover;
 	--background-repeat: no-repeat;
